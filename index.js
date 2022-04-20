@@ -73,6 +73,7 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
+  'lol.jpeg',
   'images.jpeg'
 ]
 
