@@ -69,39 +69,22 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4',
-  'heman.mp4',
-  'jozin.mp4',
-  'nyan.mp4',
-  'rickroll.mp4',
-  'space.mp4',
-  'trolol.mp4'
+  'humpty.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'images.jpeg'
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
-  'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
-  'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
-  'I\'ve never seen the inside of my own mouth because it scares me to death.',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
-  'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'Humpty dumpty went to the E R',
+  'My egg got cracked',
+  'Humpty dumpty is kinda looking sus',
+  'I like humpty dumpty',
+  'Humpty dumpty had an accident',
+  'I cracked my egg',
+  'Help Ive fallen and i cant get up',
+  'Humpty dumpty fell off the wall'
 ]
 
 const LOGOUT_SITES = {
